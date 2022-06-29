@@ -13,7 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Text Domain: newsup
 */
 
-@import 'abstracts/variables';
-@import 'abstracts/functions';
-@import 'abstracts/mixins';
+@import 'abstracts/global';
+@import 'base/global';
+@import 'components/global';
 
